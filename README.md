@@ -30,9 +30,11 @@ Player can deploy between 1 to 3 ships. A ship can have a size between 1 to 5.
 
 -	Cell class: Represent a cell on the board, has 3 attributes row, column and status
 There are 5 types of status
+
 On player board:
 - = empty cell
 S = the cell is allocated to a ship
+
 On Enemy board:
 M = Missed 
 H = Hit
@@ -82,4 +84,3 @@ Attack ship:
 
 
 
-![image](https://user-images.githubusercontent.com/39337728/121800999-4a529500-cc78-11eb-87ff-80db6398e30c.png)
