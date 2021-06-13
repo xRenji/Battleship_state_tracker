@@ -1,0 +1,12 @@
+/Users/rallo/Desktop/Battleship/Battleship/bin/Debug/netcoreapp3.1/Battleship.deps.json
+/Users/rallo/Desktop/Battleship/Battleship/bin/Debug/netcoreapp3.1/Battleship.runtimeconfig.json
+/Users/rallo/Desktop/Battleship/Battleship/bin/Debug/netcoreapp3.1/Battleship.runtimeconfig.dev.json
+/Users/rallo/Desktop/Battleship/Battleship/bin/Debug/netcoreapp3.1/Battleship.dll
+/Users/rallo/Desktop/Battleship/Battleship/bin/Debug/netcoreapp3.1/Battleship.pdb
+/Users/rallo/Desktop/Battleship/Battleship/obj/Debug/netcoreapp3.1/Battleship.csprojAssemblyReference.cache
+/Users/rallo/Desktop/Battleship/Battleship/obj/Debug/netcoreapp3.1/Battleship.AssemblyInfoInputs.cache
+/Users/rallo/Desktop/Battleship/Battleship/obj/Debug/netcoreapp3.1/Battleship.AssemblyInfo.cs
+/Users/rallo/Desktop/Battleship/Battleship/obj/Debug/netcoreapp3.1/Battleship.csproj.CoreCompileInputs.cache
+/Users/rallo/Desktop/Battleship/Battleship/obj/Debug/netcoreapp3.1/Battleship.dll
+/Users/rallo/Desktop/Battleship/Battleship/obj/Debug/netcoreapp3.1/Battleship.pdb
+/Users/rallo/Desktop/Battleship/Battleship/obj/Debug/netcoreapp3.1/Battleship.genruntimeconfig.cache
