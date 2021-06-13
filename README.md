@@ -49,15 +49,18 @@ D = Destroyed (once a ship has been destroyed all H transform to D)
 Start a new game: 
 -	The boards are reset to empty cells
 -	 Flags return to default state 
+
 View Boards:
 -	Print player board by looping through player board and print each cell status
 -	Print enemy board by looping through enemy board and print each cell status
+
 Deploy ship:
 -	First check if player has already start attacking
 -	Get player input for row, column, size and orientation
 -	Validate ship against board boundaries
 -	Validate ship by checking for other ships in the same locations
 -	Deploy ship (Ship added to board, board cells status change)
+
 Attack ship:
 -	First check if  game has finished 
 -	Second check if player has deployed a ship
@@ -75,4 +78,8 @@ Attack ship:
 -	Ship state is managed by the health of the ship
 -	Shot state is managed by comparing the shot coordinates to the cells occupied by each ship on the board
 -	Game state is managed by the number of ships left on the board
+
+
+
+
 ![image](https://user-images.githubusercontent.com/39337728/121800999-4a529500-cc78-11eb-87ff-80db6398e30c.png)
